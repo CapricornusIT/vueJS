@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'FAR';
+    src: url('../Fonts/Webfonts/fa-regular-400.ttf');
+    font-weight: 400;
+}
+
+.far{
+    font-family: 'FAR';
+    font-weight: 400;
+}
+
+.fa-edit::before{
+    content: '\f044';
+    font-style: normal;
+}
